@@ -16,6 +16,7 @@
 </p>
 
 <h3 align="left">Fav techs:</h3>
+
 - TypeScript
 - Next.js
 - Tailwindcss
