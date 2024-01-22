@@ -21,6 +21,7 @@
 - Next.js
 - Tailwindcss
 - Shadcn or Mantine or Chakra
+- Node or Bun
 - .NET
 - CloudFlare
 - Playwright + MSW
