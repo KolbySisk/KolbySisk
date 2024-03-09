@@ -5,7 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/kolbysisk" target="blank"><img src="https://img.shields.io/twitter/follow/kolbysisk?logo=twitter&style=for-the-badge" alt="kolbysisk" /></a> </p>
 
-- 🔭 I’m currently working on [next-supabase-stripe-starter](https://github.com/KolbySisk/next-supabase-stripe-starter)
+- 👔 Senior Engineering Manager at [Udacity](https://www.udacity.com)
+
+- 🛠️ I’m currently working on [Vibe Scan](https://vibe-scan.com)
+
+- 🧰 I’m actively maintaining [next-supabase-stripe-starter](https://github.com/KolbySisk/next-supabase-stripe-starter)
 
 - 📝 I regularly write articles on [https://medium.com/@kolbysisk](https://medium.com/@kolbysisk)
 
