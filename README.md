@@ -26,8 +26,8 @@
 - Tailwindcss
 - Shadcn or Mantine or Chakra
 - Node or Bun
-- .NET
 - CloudFlare
 - Playwright + MSW
+- SST
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kolbysisk&show_icons=true&locale=en&layout=compact" alt="kolbysisk" /></p>
