@@ -7,7 +7,7 @@
 
 - 👔 Senior Engineering Manager at [Udacity](https://www.udacity.com)
 
-- 🛠️ I’m currently working on [Vibe Scan](https://vibe-scan.com)
+- 🛠️ I’m currently working on [Hirvana](https://hirvana.com) & [Vibe Scan](https://vibe-scan.com)
 
 - 🧰 I actively maintain [next-supabase-stripe-starter](https://github.com/KolbySisk/next-supabase-stripe-starter)
 
@@ -24,8 +24,8 @@
 - TypeScript
 - Next.js
 - Tailwindcss
-- Shadcn or Mantine or Chakra
-- Node or Bun
+- Shadcn or Mantine or Chakra or Ark UI
+- Bun
 - CloudFlare
 - Playwright + MSW
 - SST
